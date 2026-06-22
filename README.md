@@ -229,6 +229,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [usdevjobs.com](https://usdevjobs.com/) - Real-time job aggregator for software, AI, data, engineers in US.
   1. [Vollna](https://www.vollna.com/) - An aggregator for top freelance sites.
   1. [whoishiring.io](https://whoishiring.io/#!/search/19.41/-43.14/2/?remote=true)
+  1. [Eplicant](https://www.eplicant.com/) - A Real-time job aggregator for International Development Jobs in US and around the World.
 
 ## Housing
   1. [bedndesk](https://www.bedndesk.com/) - Coworking & coliving space in Mallorca island in Spain
@@ -282,6 +283,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Remote Internships](https://smash.vc/startup-newsletter/)
   1. [Remote Jobs Club](https://remotejobsclub.com) - Weekly newsletter featuring a hand curated list of remote jobs
   1. [Remoteur](https://newsletter.remoteur.com/) - Remote jobs in Europe delivered to your inbox bi-weekly
+  1. [Eplicant](https://eplicant.substack.com/) - Weekly newsletter featuring a hand curated list of International Development jobs
   
 
 ## Podcasts
